@@ -13,15 +13,35 @@
     "chunk": "main"
   },
   {
-    "path": "/about",
-    "page": "./pages/about"
-  },
-  {
     "path": "/test",
     "page": "./pages/test"
   },
   {
-    "path": "/tasks/:status(pending|completed)?",
-    "page": "./pages/home"
+    "path": "/success",
+    "page": "./pages/success"
+  },
+  {
+    "path": "/splash",
+    "page": "./pages/splash"
+  },
+  {
+    "path": "/rundeclaration",
+    "page": "./pages/rundeclaration"
+  },
+  {
+    "path": "/runconclusion",
+    "page": "./pages/runconclusion"
+  },
+  {
+    "path": "/order",
+    "page": "./pages/order"
+  },
+  {
+    "path": "/itemlist",
+    "page": "./pages/itemlist"
+  },
+  {
+    "path": "/feed",
+    "page": "./pages/feed"
   }
 ]
